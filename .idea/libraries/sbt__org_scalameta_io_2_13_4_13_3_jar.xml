@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: org.scalameta:io_2.13:4.13.3:jar" external-system-id="SBT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Library/Caches/Coursier/v1/https/artifactory.corp.creditkarma.com%3A8443/artifactory/jcenter/org/scalameta/io_2.13/4.13.3/io_2.13-4.13.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Library/Caches/Coursier/v1/https/artifactory.corp.creditkarma.com%3A8443/artifactory/jcenter/org/scalameta/io_2.13/4.13.3/io_2.13-4.13.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

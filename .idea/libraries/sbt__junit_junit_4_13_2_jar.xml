@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: junit:junit:4.13.2:jar" external-system-id="SBT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Library/Caches/Coursier/v1/https/artifactory.corp.creditkarma.com%3A8443/artifactory/jcenter/junit/junit/4.13.2/junit-4.13.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Library/Caches/Coursier/v1/https/artifactory.corp.creditkarma.com%3A8443/artifactory/jcenter/junit/junit/4.13.2/junit-4.13.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
